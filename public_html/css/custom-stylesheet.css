@@ -1,0 +1,20 @@
+body {
+    background-color: purple;
+    color: black;
+}
+
+div{
+    border-style: solid;
+            padding: 30px;
+            border-width: 5px;
+                 
+}
+
+.border{
+    border-color: black;
+}
+
+.row{
+    border-color: blue
+}
+
